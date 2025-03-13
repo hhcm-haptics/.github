@@ -1,5 +1,7 @@
 ## HHCM Teleoperation and Haptics
-Migrated repositories from [gitlab.advr.iit.it](https://gitlab.advr.iit.it/)
+Welcome to the GitHub organization of the Haptics and Teleoperation group within Humonoid and Human centerd Mechatronics lab at the Italian Institute of Technology.
+
+This organization contains migrated repositories previusly hosted at [gitlab.advr.iit.it](https://gitlab.advr.iit.it/)
 <!--
 
 **Here are some ideas to get you started:**
